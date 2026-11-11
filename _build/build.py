@@ -97,7 +97,7 @@ def header(active):
   <div class="concept-bar" role="note">
     <div class="wrap concept-inner">
       <p><span class="concept-tag">Concept</span><span class="concept-long">網站改版概念設計，並非 <a href="{OFFICIAL}" target="_blank" rel="noopener">UKPM 官方網站</a>。</span></p>
-      <a href="https://ux-circles.com/web" target="_blank" rel="noopener">Designed by <strong>UX CIRCLES</strong> {ext()}</a>
+      <a href="https://ux-circles.com/professionals" target="_blank" rel="noopener">Designed by <strong>UX CIRCLES</strong> {ext()}</a>
     </div>
   </div>
   <header class="site-header">
@@ -153,7 +153,7 @@ def footer():
       </div>
       <div class="footer-bottom">
         <p>© <span data-year>2026</span> UKPM Property Management</p>
-        <p>官方網站 <a href="{OFFICIAL}" target="_blank" rel="noopener">ukpm.uk {ext()}</a> · 改版概念設計 <a href="https://ux-circles.com/web" target="_blank" rel="noopener">UX CIRCLES {ext()}</a></p>
+        <p>官方網站 <a href="{OFFICIAL}" target="_blank" rel="noopener">ukpm.uk {ext()}</a> · 改版概念設計 <a href="https://ux-circles.com/professionals" target="_blank" rel="noopener">UX CIRCLES {ext()}</a></p>
       </div>
     </div>
   </footer>
